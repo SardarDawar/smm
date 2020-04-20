@@ -25,7 +25,7 @@ SECRET_KEY = 'l@q5c#cffz9&net0b(gcapd=f)17o85@ut4-n(bqma5k-42808'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['161.35.100.24','127.0.0.1']
+ALLOWED_HOSTS = ['161.35.100.24','127.0.0.1','resourcefulmarketing.online']
 
 
 # Application definition
